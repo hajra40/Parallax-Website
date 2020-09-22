@@ -27,10 +27,12 @@ section.sec2 {
   background: url(./pexels-tomas-anunziata-695200.jpg) no-repeat center center/cover;
   background-attachment: fixed;
 }
+
 section.sec3 {
   background: url(./pexels-pixabay-235615.jpg) no-repeat center center/cover;
   background-attachment: fixed;
 }
+
 section.sec4 {
   background: url(./pexels-gabriel-peter-719396.jpg) no-repeat center center/cover;
   background-attachment: fixed;
@@ -56,6 +58,7 @@ section.secText,
   font-size: 1.5rem;
   color: #333;
 }
+
 .sec-content h1,
 .sec-content p{
   color: aliceblue;
