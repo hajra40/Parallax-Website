@@ -19,7 +19,7 @@ section{
 }
 
 section.sec1 {
-  background: url(/pexels-kaichieh-chan-917510.jpg) no-repeat center center/cover;
+  background: url(./pexels-kaichieh-chan-917510.jpg) no-repeat center center/cover;
   background-attachment: fixed;
 }
 
